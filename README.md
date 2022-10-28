@@ -1,4 +1,4 @@
-# Tour-company-vehicle-repair-data
+# Analyzing-and-Visualizing-Car-Repair-Data
 The data used in this project was from vehicle repair information of a tour company here in Kenya collected from 2019 to early 2022.
 
 
